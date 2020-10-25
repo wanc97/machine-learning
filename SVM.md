@@ -41,12 +41,3 @@
 ### 参考：
 -  http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/2_svm.html
 
-
-```python
-
-```
-
-
-
-
-
