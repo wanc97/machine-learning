@@ -5,5 +5,5 @@
     * [线性代数](readme/shu-xue-ji-chu/xian-xing-dai-shu.md)
     * [概率&统计](readme/shu-xue-ji-chu/gai-shuai-tong-ji.md)
     * [凸优化](readme/shu-xue-ji-chu/tu-you-hua.md)
-  * [机器学习基础知识](readme/ji-qi-xue-xi-1.md)
+  * [机器学习基础知识](ji-qi-xue-xi-1.md)
   * [深度学习基础知识](readme/shen-du-xue-xi-ji-chu-zhi-shi.md)
